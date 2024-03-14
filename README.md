@@ -5,3 +5,6 @@
 
 ### Session 2
 - **Implementing canonical correlation analysis from scratch in PyTorch, applying to single-neuron data** <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlcolearn/mlcolearn-meetup-season1/blob/main/session2_cca/CCA_in_pytorch.ipynb)
+
+### Session 3
+- **Continuation of Session 2: Implementing canonical correlation analysis from scratch in PyTorch, applying to single-neuron data** <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlcolearn/mlcolearn-meetup-season1/blob/main/session3_cca/CCA_in_pytorch.ipynb)
